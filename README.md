@@ -44,3 +44,6 @@ DHT sensor library โดย Adafruit
 นายภากร     นัยวัฒน์       66070152
 
 นายสหรัฐ     รัตนไชย      66070313
+
+# เว็บ Github.io
+https://saharhaast.github.io/project-pc/
